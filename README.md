@@ -1,6 +1,7 @@
-# leetcode-daily-challenge
+# Leetcode Daily Challenge's Review
 
-- 問題は各日付ごとにフォルダ分けされてるので，それぞれのフォルダ内のreview.mdを参照してください．  
+- 個人的な単なるモチベ維持目的での執筆です．  
+- 問題は各日付ごとにフォルダ分けしてるので，それぞれのフォルダ内のreview.mdを参照してください．  
 
 ## 問題リスト
 
