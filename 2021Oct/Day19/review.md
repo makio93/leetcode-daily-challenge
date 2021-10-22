@@ -1,6 +1,6 @@
-# [(2021.10.19) 496. Next Greater Element I (Easy)](https://leetcode.com/problems/next-greater-element-i/)
+# [(2021.10.19) 496. Next Greater Element I (Diff:Easy)](https://leetcode.com/problems/next-greater-element-i/)
 
-元ページURL: [496. Next Greater Element I (Easy)](https://leetcode.com/problems/next-greater-element-i/)
+元ページURL: [496. Next Greater Element I (Diff:Easy)](https://leetcode.com/problems/next-greater-element-i/)
 
 ## 問題の概要
 
